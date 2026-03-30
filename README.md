@@ -103,7 +103,7 @@ Open with Live Server (VS Code recommended)
 
 ## 👨‍💻 Author
 
-**Kapil Charan**  
+**DEEPAK J**  
 B.Tech CSE Student  
 Aspiring Full Stack Developer  
 
